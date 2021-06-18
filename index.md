@@ -1,5 +1,5 @@
-"个人简历"
-
+<center>#江纯阶的个人简历
+<div align='center' ><font size='70'>江纯阶的个人简历</font></div>
 
 ### 教育及工作经历
 ------
