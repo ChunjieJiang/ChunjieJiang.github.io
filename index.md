@@ -52,3 +52,7 @@
 * （1）整合分析多组学大数据解析癌症和代谢疾病的发生发展分子机制，挖掘潜在的诊断和治疗靶点;
 * （2）个体化药物应答差异，力助个性化医疗；
 * （3）开发计算学工具和算法用于多组学数据的分析和可视化。
+
+### 个人网址
+------
+[Google Scholar](https://scholar.google.com/citations?user=q8XjoTIAAAAJ&hl=zh-CN)
