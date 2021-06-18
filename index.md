@@ -55,5 +55,5 @@
 
 ### 个人网址
 ------
-[江纯阶的Google Scholar](https://scholar.google.com/citations?user=q8XjoTIAAAAJ&hl=zh-CN)
-[江纯阶的publons. Web of Science ResearcherID, AAU-1775-2020](https://publons.com/researcher/1534863/chunjie-jiang/)
+* [江纯阶的Google Scholar](https://scholar.google.com/citations?user=q8XjoTIAAAAJ&hl=zh-CN)
+* [江纯阶的publons. Web of Science ResearcherID, AAU-1775-2020](https://publons.com/researcher/1534863/chunjie-jiang/)
