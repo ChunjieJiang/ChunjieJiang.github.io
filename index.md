@@ -1,4 +1,4 @@
-<div align='center' ><b><big> 江纯阶的个人简历</big></b></div>
+<div align='center' ><b><h1> 江纯阶的个人简历</h1></b></div>
 
 ### 教育及工作经历
 ------
