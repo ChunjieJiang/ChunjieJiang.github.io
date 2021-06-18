@@ -1,6 +1,5 @@
 ------
 title: "个人简历"
-date: "2021-06-18"
 menu: [top]
 weight: 4
 ------
