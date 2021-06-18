@@ -31,12 +31,12 @@
 
 ### 代表性文章
 
-1.	Wenxiang Hu§, **Chunjie Jiang**, Mindy Kim, Kun Zhu, Dongyin Guan, Yang Xiao, Deepti Abbey, Mitchell A. Lazar. Individual-specific functional epigenomics reveals genetic determinants of adverse metabolic effects glucocorticoid drugs. **Cell Metabolism** (Accept，**并列一**，IF=22.41)
-2.	Wenxiang Hu§, **Chunjie Jiang**, Dongyin Guan, David J. Steger, Raymond E. Soccio, Mitchell A. Lazar. Patient adipose stem cell-derived adipocytes reveal genetic variants that modulate anti-diabetic drug response. **Cell Stem Cell**.2019 Jan. (**封面文章**, **并列一**，IF=20.86, ). 
-3.	**Chunjie Jiang**, Na Ding, Junyi Li, Xiyun Jin, Lili Li, Tao Pan, Caiqin Huo, Yongsheng Li, Juan Xu and Xia Li. Landscape of the long non-coding RNA transcriptome in human heart. **Briefings in bioinformatics**.2019 Feb. (IF=9.10, 一区). 
-4.	Yu Dong, Yang Xiao, Qihui Shi and **Chunjie Jiang**. Dysregulated lncRNA-miRNA-mRNA network reveals patient survival associated modules and RBPs in invasive breast carcinoma. **Frontiers in Genetics**.2020 Jan. (IF=3.26, 三区). 
-5.	Zhixiao Fang, **Chunjie Jiang**, Shengli Li. The potential regulatory roles of circular RNAs in tumor immunology and immunotherapy. **Frontiers in Immunology**.2021 Feb. (IF=5.09, 二区). 
-6.	Min Qiu, Qin Fu, **Chunjie Jiang**, Da Liu. Machine learning based network analysis determined clinically relevant miRNAs in breast cancer. **Frontiers in Genetics**.2020 Nov. (IF=3.26, 三区). 
+1.	Wenxiang Hu, **Chunjie Jiang**, Mindy Kim, Kun Zhu, Dongyin Guan, Yang Xiao, Deepti Abbey, Mitchell A. Lazar. Individual-specific functional epigenomics reveals genetic determinants of adverse metabolic effects glucocorticoid drugs. **Cell Metabolism** (IF=22.41，Accept，**并列一**)
+2.	Wenxiang Hu, **Chunjie Jiang**, Dongyin Guan, David J. Steger, Raymond E. Soccio, Mitchell A. Lazar. Patient adipose stem cell-derived adipocytes reveal genetic variants that modulate anti-diabetic drug response. **Cell Stem Cell**.2019 Jan. (IF=20.86, **封面文章**, **并列一**). 
+3.	**Chunjie Jiang**, Na Ding, Junyi Li, Xiyun Jin, Lili Li, Tao Pan, Caiqin Huo, Yongsheng Li, Juan Xu and Xia Li. Landscape of the long non-coding RNA transcriptome in human heart. **Briefings in bioinformatics**.2019 Feb. (IF=9.10). 
+4.	Yu Dong, Yang Xiao, Qihui Shi and **Chunjie Jiang**. Dysregulated lncRNA-miRNA-mRNA network reveals patient survival associated modules and RBPs in invasive breast carcinoma. **Frontiers in Genetics**.2020 Jan. (IF=3.26，**通讯作者**）. 
+5.	Zhixiao Fang, **Chunjie Jiang**, Shengli Li. The potential regulatory roles of circular RNAs in tumor immunology and immunotherapy. **Frontiers in Immunology**.2021 Feb. (IF=5.09，**并列通讯**). 
+6.	Min Qiu, Qin Fu, **Chunjie Jiang**, Da Liu. Machine learning based network analysis determined clinically relevant miRNAs in breast cancer. **Frontiers in Genetics**.2020 Nov. (IF=3.26，**并列通讯**). 
 
 ### 其它文章
 
